@@ -89,14 +89,6 @@ table {
 
 
 .container{
-    font-size:calc(3vw + 3vh);
-    /* line-height: 15px; */
+    font-size: 16px;
+    font-size: 6vw;
 }
-
-
-/* @media all and (max-width:400px){
-    .container{
-        font-size:25px;
-        line-height: 40px;
-    }
-} */
